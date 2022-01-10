@@ -3,6 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+
 Welcome to sphinx-autodoc-typehints-example's documentation!
 ============================================================
 
@@ -10,7 +11,7 @@ Welcome to sphinx-autodoc-typehints-example's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-.. autoclass :: package.model.Website
+.. autopydantic_model:: package.model.Website
 
 
 Indices and tables

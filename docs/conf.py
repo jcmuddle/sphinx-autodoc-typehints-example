@@ -28,6 +28,7 @@ author = 'John Muddle'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [    "sphinx.ext.autodoc",
+    "sphinxcontrib.autodoc_pydantic",
     "sphinx_autodoc_typehints",
 ]
 
